@@ -46,9 +46,10 @@ class App extends React.Component {
             <div className={classes.container}>
               <GridContainer>
                 <GridItem xs={12} sm={12} md={6}>
-                  <h1 className={classes.title}>React Google Book Search</h1>
-                  <h4>Search for and save books of interest</h4>
+                  <h1 className={classes.title}>Google Books Search</h1>
+                  <h4>  A React Google Book Search App</h4>
                   <br />
+                  <h4>Search for and save books of interest</h4>
                 </GridItem>
               </GridContainer>
             </div>
