@@ -21,7 +21,7 @@ app.get("*", (req, res) => {
 });
 
 // Connect to the Mongo DB
-mongoose.connect(process.env.MONGODB_URI || "mongodb://user1:password1@ds163705.mlab.com:63705/heroku_hx4pwtfw");
+mongoose.connect(process.env.MONGODB_URI || "mongodb://user1:password1@ds145916.mlab.com:45916/heroku_9hgdvh29");
 // Send every other request to the React app
 // Define any API routes before this runs
 
