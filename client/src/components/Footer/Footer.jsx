@@ -22,7 +22,7 @@ function Footer({ ...props }) {
       <div className={classes.container}>
         
         <div className={classes.center}>
-          <h1>Google Books Search</h1>
+          <h1 className="footerText">Google Book Search</h1>
         </div>
       </div>
     </footer>

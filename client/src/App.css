@@ -1,3 +1,56 @@
+body {
+  background-color: #005918;
+}
+
+h1 {
+  color: white;
+}
+
+a {
+  color: #005918;
+}
+
+.logo {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.footerText {
+  color: white;
+  outline-width: thin;
+    outline: solid;
+}
+
+.MuiButton-label {
+  color: white;
+}
+
+.RegularButton-button-140 {
+  background-color: #00b432;
+}
+
+.RegularButton-primary-142 {
+  background-color: #00b432;
+}
+
+.RegularButton-primary-142:focus {
+  background-color: #00b432;
+}
+
+.Header-container-9 {
+  background-color: #005918;
+  border-radius: 6px;
+}
+
+.Header-white-21 {
+  background-color: #005918;
+}
+
+.Header-drawerPaper-22 {
+  background-color: #005918;
+}
+
 .float {
   float: left;
   height: 100%;
@@ -13,19 +66,19 @@ button {
 }
 .view {
   padding: 6px 10px;
-  background-color: #9c27b0;
+  background-color: #00b432;
   border-radius: 3px;
   color: white;
 }
 .save {
   padding: 6px 10px;
-  background-color: #27b06c;
+  background-color: #00b432;
   border-radius: 3px;
   color: white;
 }
 .delete {
   padding: 6px 10px;
-  background-color: #b06927;
+  background-color: #00b432;
   border-radius: 3px;
   color: white;
 }
@@ -42,4 +95,16 @@ button {
 }
 .divider {
   height: 100%;
+}
+
+@media (max-width: 959.95px) {
+.HeaderLinks-listItem-114 {
+  background-color: #005918;
+}
+}
+
+@media (max-width: 959.95px) {
+.Header-drawerPaper-22 {
+  background-color: #005918;
+}
 }

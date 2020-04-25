@@ -6,7 +6,7 @@ module.exports = {
   findBooks: function(req, res) {
     axios
       .get("https://www.googleapis.com/books/v1/volumes", {
-        params: { q: req.query, maxResults: 10 }
+        params: { q: req.query, maxResults: 30 }
       })
       .then(booklist => {
         let id_arr = booklist.data.items.map(item => item.id);

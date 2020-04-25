@@ -2,9 +2,10 @@ import React from "react";
 // nodejs library that concatenates classes
 import classNames from "classnames";
 // @material-ui/core components
-import "./App.css";
+
 import "../src/assets/scss/material-kit-react.scss?v=1.4.0";
 import withStyles from "@material-ui/core/styles/withStyles";
+import "./App.css";
 
 // @material-ui/icons
 
@@ -44,14 +45,15 @@ class App extends React.Component {
           />
           <Parallax filter image={require("./assets/img/landing-bg.jpg")}>
             <div className={classes.container}>
-              <GridContainer>
+              {/* <GridContainer>
                 <GridItem xs={12} sm={12} md={6}>
                   <h1 className={classes.title}>Google Books Search</h1>
                   <h4>  A React Google Book Search App</h4>
                   <br />
                   <h4>Search for and save books of interest</h4>
                 </GridItem>
-              </GridContainer>
+              </GridContainer> */}
+              <img src={ require('./gbs-logo.png') } className="logo" />
             </div>
           </Parallax>
           <div className={classNames(classes.main, classes.mainRaised)}>

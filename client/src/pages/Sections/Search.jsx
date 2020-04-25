@@ -47,7 +47,7 @@ class Search extends React.Component {
               value={this.state.bookSearch}
               className="input"
             />
-            <Button color="primary" onClick={this.handleSubmit}>
+            <Button  onClick={this.handleSubmit}>
               Search
             </Button>
             {this.state.bookList.length ? (
