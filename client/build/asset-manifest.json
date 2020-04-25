@@ -1,24 +1,15 @@
 {
-  "files": {
-    "main.css": "/static/css/main.53999064.chunk.css",
-    "main.js": "/static/js/main.bdfa609c.chunk.js",
-    "main.js.map": "/static/js/main.bdfa609c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.43e0265e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.43e0265e.js.map",
-    "static/js/2.b31e0958.chunk.js": "/static/js/2.b31e0958.chunk.js",
-    "static/js/2.b31e0958.chunk.js.map": "/static/js/2.b31e0958.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e5fcc493b40187e36a4b8d7709f29cfb.js": "/precache-manifest.e5fcc493b40187e36a4b8d7709f29cfb.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.53999064.chunk.css.map": "/static/css/main.53999064.chunk.css.map",
-    "static/js/2.b31e0958.chunk.js.LICENSE.txt": "/static/js/2.b31e0958.chunk.js.LICENSE.txt",
-    "static/media/empty.png": "/static/media/empty.774dd538.png",
-    "static/media/landing-bg.jpg": "/static/media/landing-bg.df8fd3ef.jpg"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.43e0265e.js",
-    "static/js/2.b31e0958.chunk.js",
-    "static/css/main.53999064.chunk.css",
-    "static/js/main.bdfa609c.chunk.js"
-  ]
+  "main.css": "/static/css/main.a47328d1.chunk.css",
+  "main.js": "/static/js/main.2c1203e9.chunk.js",
+  "main.js.map": "/static/js/main.2c1203e9.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.bdce56e3.chunk.js": "/static/js/2.bdce56e3.chunk.js",
+  "static/js/2.bdce56e3.chunk.js.map": "/static/js/2.bdce56e3.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.7a47dfaea83c2de6a3175d658e52b553.js": "/precache-manifest.7a47dfaea83c2de6a3175d658e52b553.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.a47328d1.chunk.css.map": "/static/css/main.a47328d1.chunk.css.map",
+  "static/media/empty.png": "/static/media/empty.774dd538.png",
+  "static/media/landing-bg.jpg": "/static/media/landing-bg.df8fd3ef.jpg"
 }
