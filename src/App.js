@@ -3,7 +3,7 @@ import React from "react";
 import classNames from "classnames";
 // @material-ui/core components
 import "./App.css";
-import "../src/assets/scss/material-kit-react.scss?v=1.4.0";
+// import "../src/assets/scss/material-kit-react.scss?v=1.4.0";
 import withStyles from "@material-ui/core/styles/withStyles";
 
 // @material-ui/icons
